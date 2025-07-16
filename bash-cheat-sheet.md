@@ -494,3 +494,6 @@ done
 - Handle errors gracefully and provide helpful messages
 - Test scripts with different inputs and edge cases
 - Keep scripts portable and avoid unnecessary dependencies 
+
+
+==}> [follow for more: https://www.youtube.com/@learn-from-error](https://www.youtube.com/@learn-from-error)
