@@ -1,9 +1,6 @@
 # Bash Scripting Cheatsheet
 
----
-
 ## Table of Contents
-
 | Section | Description |
 |---------|-------------|
 | [introduction](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#1-introduction) | What is Bash, scripts, and the shell |
