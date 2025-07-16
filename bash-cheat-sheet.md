@@ -6,44 +6,46 @@
 
 # GitHub-style Table of Contents for Bash Cheatsheet
 
+# GitHub-style Table of Contents for Bash Cheatsheet
+
 | Section | Description |
 |---------|-------------|
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#1-introduction] | What is Bash, scripts, and the shell |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#2-basic-commands] | Essential file and directory commands |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#3-creating--running-scripts] | How to write and execute scripts |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#4-variables-all-ways-to-declare] | Declaring, exporting, and using variables |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#5-quoting--escaping] | Single/double quotes, escaping characters |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#6-comments] | Adding comments to scripts |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#7-user-input-all-ways-to-read] | Reading input from users and files |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#8-command-substitution] | Capturing command output in variables |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#9-arithmetic] | Performing calculations in Bash |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#10-conditionals] | if/else statements and tests |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#11-case-statement] | Multi-way branching with case |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#12-loops] | for, while, until loops |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#13-functions] | Defining and using functions |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#14-positional-parameters--special-vars] | Script arguments and special variables |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#15-arrays] | Indexed and associative arrays |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#16-string-manipulation] | Substrings, replacement, and more |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#17-file--directory-tests] | Checking file and directory properties |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#18-redirection] | Redirecting input/output |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#19-pipes--filters] | Chaining commands and filtering data |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#20-globbing--wildcards] | Pattern matching with wildcards |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#21-process-management] | Background jobs and process control |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#22-traps--signal-handling] | Handling signals and cleanup |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#23-debugging] | Debugging and error tracing |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#24-here-documents--strings] | Multi-line input and here strings |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#25-regular-expressions] | Pattern matching with regex |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#26-associative-arrays-bash-4] | Key-value arrays (Bash 4+) |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#27-date--time] | Working with dates and times |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#28-file-processing] | Reading and processing files |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#29-networking] | Network commands and scripting |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#30-argument-parsing] | Handling script options and arguments |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#31-scheduling--automation] | Automating tasks with cron/at |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#32-advanced-topics] | Advanced Bash scripting features |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#33-quick-reference] | Handy Bash tips and tricks |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#34-troubleshooting] | Common errors and solutions |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#35-resources--further-reading] | Helpful links and documentation |
-| [@https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#36-best-practices] | Writing clean, safe scripts | 
+| [introduction](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#1-introduction) | What is Bash, scripts, and the shell |
+| [basic commands](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#2-basic-commands) | Essential file and directory commands |
+| [creating & running scripts](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#3-creating--running-scripts) | How to write and execute scripts |
+| [variables (all ways to declare)](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#4-variables-all-ways-to-declare) | Declaring, exporting, and using variables |
+| [quoting & escaping](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#5-quoting--escaping) | Single/double quotes, escaping characters |
+| [comments](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#6-comments) | Adding comments to scripts |
+| [user input (all ways to read)](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#7-user-input-all-ways-to-read) | Reading input from users and files |
+| [command substitution](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#8-command-substitution) | Capturing command output in variables |
+| [arithmetic](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#9-arithmetic) | Performing calculations in Bash |
+| [conditionals](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#10-conditionals) | if/else statements and tests |
+| [case statement](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#11-case-statement) | Multi-way branching with case |
+| [loops](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#12-loops) | for, while, until loops |
+| [functions](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#13-functions) | Defining and using functions |
+| [positional parameters & special vars](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#14-positional-parameters--special-vars) | Script arguments and special variables |
+| [arrays](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#15-arrays) | Indexed and associative arrays |
+| [string manipulation](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#16-string-manipulation) | Substrings, replacement, and more |
+| [file & directory tests](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#17-file--directory-tests) | Checking file and directory properties |
+| [redirection](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#18-redirection) | Redirecting input/output |
+| [pipes & filters](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#19-pipes--filters) | Chaining commands and filtering data |
+| [globbing & wildcards](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#20-globbing--wildcards) | Pattern matching with wildcards |
+| [process management](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#21-process-management) | Background jobs and process control |
+| [traps & signal handling](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#22-traps--signal-handling) | Handling signals and cleanup |
+| [debugging](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#23-debugging) | Debugging and error tracing |
+| [here documents & strings](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#24-here-documents--strings) | Multi-line input and here strings |
+| [regular expressions](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#25-regular-expressions) | Pattern matching with regex |
+| [associative arrays (bash 4+)](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#26-associative-arrays-bash-4) | Key-value arrays (Bash 4+) |
+| [date & time](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#27-date--time) | Working with dates and times |
+| [file processing](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#28-file-processing) | Reading and processing files |
+| [networking](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#29-networking) | Network commands and scripting |
+| [argument parsing](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#30-argument-parsing) | Handling script options and arguments |
+| [scheduling & automation](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#31-scheduling--automation) | Automating tasks with cron/at |
+| [advanced topics](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#32-advanced-topics) | Advanced Bash scripting features |
+| [quick reference](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#33-quick-reference) | Handy Bash tips and tricks |
+| [troubleshooting](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#34-troubleshooting) | Common errors and solutions |
+| [resources & further reading](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#35-resources--further-reading) | Helpful links and documentation |
+| [best practices](https://github.com/ohm-vishwa/learn-from-error-res/blob/main/bash-cheat-sheet.md#36-best-practices) | Writing clean, safe scripts | 
 ---
 
 ## 1. Introduction
